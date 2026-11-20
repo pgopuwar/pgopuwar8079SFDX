@@ -1,0 +1,2 @@
+# Never auto-resolve permission set conflicts
+**/permissionsets/*.permissionset-meta.xml
