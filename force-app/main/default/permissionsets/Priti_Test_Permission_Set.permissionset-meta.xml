@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <PermissionSet xmlns="http://soap.sforce.com/2006/04/metadata">
-    <description>Used to demo a promotion conflict in Copado. Version: SOURCE.</description>
+    <description>Promotion conflict retest. Version: A (story A).</description>
     <hasActivationRequired>false</hasActivationRequired>
     <label>Priti_Test_Permission_Set</label>
 </PermissionSet>
