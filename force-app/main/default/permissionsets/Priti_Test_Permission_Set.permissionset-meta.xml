@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <PermissionSet xmlns="http://soap.sforce.com/2006/04/metadata">
-    <description>Promotion conflict retest. Version: C (story B2).</description>
+    <description>Promotion conflict retest. Version: D (story A3).</description>
     <hasActivationRequired>false</hasActivationRequired>
     <label>Priti_Test_Permission_Set</label>
 </PermissionSet>
